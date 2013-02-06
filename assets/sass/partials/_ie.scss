@@ -4,6 +4,4 @@
 
 $media-query-breakpoint: 767px !default;
 
-body {
-  min-width: $media-query-breakpoint;
-}
+body { min-width: $media-query-breakpoint; }

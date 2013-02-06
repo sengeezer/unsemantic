@@ -2,6 +2,10 @@
 
 This is a fluid grid system for desktop & mobile.
 
+##SCSS version
+
+This version uses the newer SCSS syntax. It also reads more eaily due to a more compact custom syntax.
+
 ---
 
 Read more here...
